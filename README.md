@@ -12,11 +12,13 @@
 - [x] 计算思维与程序实践I
 
 ### Python编程
-- [x] Python基础语法
-- [x] Python数据结构
-- [x] Python函数
-- [x] Python面向对象编程
-- [x] Python文件操作与异常处理
+- [x] 01-Python基础语法
+- [x] 02-Python数据结构
+- [x] 03-Python函数
+- [x] 04-Python面向对象编程
+- [x] 05-Python文件操作与异常处理
+- [x] 06-Python模块与包
+- [ ] 07-Python测试与调试（进行中）
 
 ### 大一下学期（进行中）
 - [ ] 高等数学分析II
