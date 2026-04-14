@@ -1,6 +1,8 @@
-# 第7章 Python标准库
+# Python 标准库
 
-> 大一学期 | Python编程基础
+> 大一上学期 | 东南大学 | 电子信息类
+
+**前置知识**：[01-Python基础语法](./01-Python基础语法.md) | [02-Python数据结构](./02-Python数据结构.md) | [03-Python函数](./03-Python函数.md) | [04-Python面向对象编程](./04-Python面向对象编程.md) | [05-Python文件操作与异常处理](./05-Python文件操作与异常处理.md) | [06-Python模块与包](./06-Python模块与包.md)
 
 ---
 
@@ -601,15 +603,4 @@ for py_file in Path('.').rglob('*.py'):
 
 ## 学习建议
 
-1. **优先掌握高频模块**：`os`, `sys`, `datetime`, `json`, `collections`, `pathlib`
-2. **理解使用场景**：知道何时使用哪种模块
-3. **善用官方文档**：标准库文档详尽且权威
-4. **避免重复造轮子**：标准库能解决大部分问题
-
----
-
-## 下一步
-
-- 学习常用第三方库（NumPy、Pandas、Requests等）
-- 结合实际项目练习标准库使用
-- 阅读Python标准库源码学习设计模式
+1. **优先掌握高频模块**：`os`, `sys`, `datetime`, `json`,
